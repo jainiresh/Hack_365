@@ -1,0 +1,6 @@
+# TOPIC
+A TALK ON ALL OF THE THREATS : INTELLIGENCE, MODELLING AND HUNTING THROUGH AN ATT&CKers lens by
+Tim Wadhwa-Brown
+
+# REFERENCE
+https://www.youtube.com/watch?v=II5X0lj-Zjk
