@@ -1,0 +1,5 @@
+# TOPIC
+COMMON ANDROID APPLICATION VULNERABILITIES
+
+# REFERENCE
+https://www.youtube.com/watch?v=51S8PeuzlmI
