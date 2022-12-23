@@ -1,0 +1,5 @@
+# TOPIC
+HACKING ELECTRON APPS WITH ELECTRONEGATIVITY
+
+# REFERENCES
+https://www.youtube.com/watch?v=oJWsBHlt0ZM
