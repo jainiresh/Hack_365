@@ -1,0 +1,5 @@
+# TOPIC
+XSS IN AWS CONSOLE
+
+# REFERENCES
+https://t.co/N7S6RqOyBE?amp=1
